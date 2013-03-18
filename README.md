@@ -1,7 +1,7 @@
-# Popup
+# Translate
 
-Popup project is a demo with custom popover window appearing from the icon in the Mac OS X status bar.
+Translate app for osx.
 
 # License
-
-Popup is licensed under the BSD license.
+Uses the popup project
+https://github.com/shpakovski/Popup
